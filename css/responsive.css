@@ -11,6 +11,10 @@
   }
 }
 
+body {
+  background-color: red;
+}
+
 @media screen and (max-width: 900px){
   body {
     font-size: 85%;
